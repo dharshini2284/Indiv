@@ -8,9 +8,9 @@ https://online-platform-indiv-to-learn.netlify.app/
 
 PROJECT OVERVIEW-
 PART:1
-![Demo](https://github.com/dharshini2284/Indiv/blob/main/indiv_part1.gif)
+![Demo](https://github.com/divyaprabha1805/Indiv-Online-Course-Learning-Website/blob/main/indiv_part1.gif)
 PART:2
-![Demo](https://github.com/dharshini2284/Indiv/blob/main/indiv_part-2.gif)
+![Demo](https://github.com/divyaprabha1805/Indiv-Online-Course-Learning-Website/blob/main/indiv_part-2.gif)
 
 
 ## **Features**  
